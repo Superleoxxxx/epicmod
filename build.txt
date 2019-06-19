@@ -1,0 +1,11 @@
+﻿displayName=EpicMod
+author=ama
+version=1.3
+dllReferences=
+modReferences=
+noCompile=false
+hideCode=false
+hideResources=false
+includeSource=true
+buildIgnore=*.csproj, *.user, obj\*, bin\*, .vs\*, .git*, *.md
+includePDB=true
