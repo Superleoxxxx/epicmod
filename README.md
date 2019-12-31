@@ -1,15 +1,14 @@
-# epicmod
+# epicmod - terraria accessory mod
 A terraria 1.3.5 mod for tmodloader that adds 42 accessory slots. Based on wingslot.
 
-epic accessory mod
--adds 42 accessory slots.
--the mod is based on wingslot
--they are all non-vanity slots
--the accessories are not displayed on the player
--you can't dye the accessories
--works in multiplayer and singleplayer
--mod made by ama
--made for terraria 1.3.5 and tmodloader 0.10.1.5
+epic accessory mod  
+-adds 42 accessory slots.  
+-the mod is based on wingslot  
+-they are all non-vanity slots  
+-the accessories are not displayed on the player  
+-you can't dye the accessories  
+-works in multiplayer and singleplayer  
+-made for terraria 1.3.5 and tmodloader 0.10.1.5  
 
 changelog:
 
